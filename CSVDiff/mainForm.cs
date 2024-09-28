@@ -304,7 +304,7 @@ namespace CSVDiff
             }
         }
 
-        // Reset MainWindow form
+        // Reset mainForm
         private void resetOptions()
         {
             ofTextbox.Text = mfTextbox.Text = null;
